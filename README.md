@@ -1,0 +1,2 @@
+# barber
+data struct
